@@ -19,4 +19,24 @@ cd singing_tutorials && ls && ls -a
 ```
 find .*_opera_*_NBAYoungboy* | grep -rIh "FLAG{.*}" | head -n 1 > ../flag.txt
 ```
-6. 
+6. Mundur ke direktori sebelumnya dan download file baru
+```
+cd .. && wget https://files.catbox.moe/9l4qu8 -O plsrunmeiamnotmalwarefr
+```
+7.Buat izin untuk permission dan jalankan program
+```
+chmod +x plsrunmeiamnotmalwarefr && ./plsrunmeiamnotmalwarefr
+```
+8. Melihat proses program yang sedang berjalan
+```
+ps aux
+```
+9. Membuat program dan mengecek kembali proses program yang sedang berjalan
+```
+touch ransom.moolah && ps aux
+```
+10. Mematikan proses program dan memastikan program sudah mati
+```
+kill -9 <PID> && ps aux
+```
+11. 
