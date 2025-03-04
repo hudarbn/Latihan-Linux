@@ -1,2 +1,3 @@
-# Latihan-Linux
-Pelatihan Linux Praktikum Sistem Operasi
+# Linux Fun Project
+1. Mengunduh Program dan Membuat Folder
+
