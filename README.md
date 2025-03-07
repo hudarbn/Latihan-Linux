@@ -13,7 +13,7 @@ unzip tutorials.zip -d singing_tutorials
 ```
 4. Masuk ke dalam folder dan menampilkan list
 ```
-cd singing_tutorials && ls && ls -a
+cd singing_tutorials && ls && ls -la
 ```
 5. Filter file dan pipe hasilnya di suatu direktori
 ```
