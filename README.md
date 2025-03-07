@@ -39,4 +39,3 @@ touch ransom.moolah && ps aux
 ```
 kill -9 <PID> && ps aux
 ```
-11. 
